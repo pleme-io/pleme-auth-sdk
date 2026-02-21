@@ -1,5 +1,5 @@
 {
-  "name": "@pleme/auth-sdk",
+  "name": "@pleme-io/auth-sdk",
   "version": "1.0.0",
   "description": "Shared TypeScript library for Nexus products",
   "type": "module",
@@ -40,7 +40,7 @@
     "react": ">=18.3.0",
     "react-dom": ">=18.3.0",
     "zustand": "^5.0.0",
-    "@pleme/types": ">=1.0.0"
+    "@pleme-io/types": ">=1.0.0"
   },
   "peerDependenciesMeta": {
     "@apollo/client": {
@@ -58,7 +58,7 @@
     "react-dom": {
       "optional": false
     },
-    "@pleme/types": {
+    "@pleme-io/types": {
       "optional": true
     }
   },
